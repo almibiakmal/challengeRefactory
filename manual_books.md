@@ -1,21 +1,21 @@
 # Manual Book
-Command for run Fizzbuzz
+<p>Command for run Fizzbuzz</p>
 ```node ./logictes/fizzbuzz.js```
 
-Command for run Leap Year
+<p>Command for run Leap Year</p>
 ```node ./logictes/leapyear.js```
 
-Command for run Nearest Fibonacy
+<p>Command for run Nearest Fibonacy</p>
 ```node ./logictes/nearestfibonacy.js```
 
-Command for run Polindrome
+<p>Command for run Polindrome</p>
 ```node ./logictes/polindrome.js```
 
-Command for run Reverseword
+<p>Command for run Reverseword</p>
 ```node ./logictes/reverseword.js```
 
-Command for run Task Manipulation JSON
+<p>Command for run Task Manipulation JSON</p>
 ```node ./jsonmanipulation/task.js```
 
-Command for run Project Golang
+<p>Command for run Project Golang</p>
 ```go run main.go```
