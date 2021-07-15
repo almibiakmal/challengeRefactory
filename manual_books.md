@@ -1,5 +1,5 @@
 # Manual Book
-[x] Command for run Fizzbuzz
+[x]Command for run Fizzbuzz
 ```node ./logictes/fizzbuzz.js```
 
 [x] Command for run Leap Year
