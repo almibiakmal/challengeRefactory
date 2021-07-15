@@ -1,8 +1,8 @@
 # Manual Book
-<p>Command for run Fizzbuzz</p>
+[x] Command for run Fizzbuzz
 ```node ./logictes/fizzbuzz.js```
 
-<p>Command for run Leap Year</p>
+[x] Command for run Leap Year
 ```node ./logictes/leapyear.js```
 
 <p>Command for run Nearest Fibonacy</p>
