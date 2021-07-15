@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <title>OAUTH</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"> <!-- load bulma css -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- load fontawesome -->
+      <style>
+          body{ padding-top:70px; }
+      </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron text-center">
+          <h1 class="text-success text-info">Welcome {{.Name}}</h1>
+          <div class="well">
+            <img src="{{.AvatarURL}}">
+            <p>You login with email {{.Email}}</p>
+            <p><a class="btn btn-info" href="http://localhost:1323">Back</a></p>
+          </div>
+      </div>
+    </div>
+  </body>
+</html>
