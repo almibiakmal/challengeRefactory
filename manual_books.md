@@ -5,17 +5,16 @@
 - Command for run Leap Year<br>
 ```node ./logictes/leapyear.js```
 
-<p>Command for run Nearest Fibonacy</p>
+- Command for run Nearest Fibonacy<br>
 ```node ./logictes/nearestfibonacy.js```
-
-<p>Command for run Polindrome</p>
+- Command for run Polindrome<br>
 ```node ./logictes/polindrome.js```
 
-<p>Command for run Reverseword</p>
+- Command for run Reverseword<br>
 ```node ./logictes/reverseword.js```
 
-<p>Command for run Task Manipulation JSON</p>
+- Command for run Task Manipulation JSON<br>
 ```node ./jsonmanipulation/task.js```
 
-<p>Command for run Project Golang</p>
+- Command for run Project Golang<br>
 ```go run main.go```
